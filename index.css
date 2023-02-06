@@ -2,9 +2,11 @@
   margin: 0;
   padding: 0;
   border: none;
-  font-family: Arial, sans-serif;
+  font-family : Georgia, serif;
+  /*font-family: Arial, sans-serif; */
 }
 
 body {
+  background-color: floralwhite;
   font-size: 14px;
 }
